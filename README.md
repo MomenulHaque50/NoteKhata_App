@@ -6,6 +6,6 @@ E-Learning App
 
 2)Download Questions
 
-3) Download Sessional Notes
+3)Download Sessional Notes
 
 4)Give Quick Quiz Test
