@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "109852511562",
+    "project_id": "notekhata-813ee",
+    "storage_bucket": "notekhata-813ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109852511562:android:92f45d6cd63b3a6f96c5b3",
+        "android_client_info": {
+          "package_name": "com.momenul.notekhata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109852511562-lddn1ogqtgaa2dt8g8lt0gd0g4grn0gc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6NEadZPWnLrP3kR-8IrWdvo-wgCleArE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109852511562-lddn1ogqtgaa2dt8g8lt0gd0g4grn0gc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
