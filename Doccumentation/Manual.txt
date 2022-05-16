@@ -1,0 +1,4 @@
+App Installation Process:
+Step 1: Download the "notekhata.apk" file.
+Step 2: Install any android phone or android supported emulator.
+Step 3: Enjoy and Thank you!!
